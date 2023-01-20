@@ -1,31 +1,32 @@
 {
   "casino":{
-  "31.223.75.229":"Meta Script",
-  "185.254.30.138":"Meta Games", 
+   "31.223.75.229":"Meta Script",
+   "185.254.30.138":"Meta Games", 
    "37.123.96.104":"Red Gaming",
    "217.195.202.55":"Kaplan Gaming",
-    "213.238.177.40":"Viana Gaming"
+   "217.195.197.111":"Viana Gaming"
     
   },
   "squid_game":{
-  "31.223.87.177":"Meta Script",
-  "185.254.30.138":"Meta Games", 
+   "31.223.87.177":"Meta Script",
+   "185.254.30.138":"Meta Games", 
    "37.123.96.104":"Red Gaming",
    "37.247.108.107":"GamerX"
   },
   "epin":{
-  "31.223.86.102":"Meta Script",
-  "185.254.30.138":"Meta Games", 
-   "217.195.202.55":"Kaplan Gaming"
+   "31.223.86.102":"Meta Script",
+   "185.254.30.138":"Meta Games", 
+   "217.195.202.55":"Kaplan Gaming",
+   "217.195.197.111":"Viana Gaming"
   },
   "gallery":{
-  "31.223.86.102":"Meta Script",
-  "185.254.30.138":"Meta Games", 
+   "31.223.86.102":"Meta Script",
+   "185.254.30.138":"Meta Games", 
    "217.195.202.55":"Kaplan Gaming"
   },
   "bank":{
-  "31.223.86.102":"Meta Script",
-  "185.254.30.138":"Meta Games", 
+   "31.223.86.102":"Meta Script",
+   "185.254.30.138":"Meta Games", 
    "217.195.202.55":"Kaplan Gaming"
   }
 }
