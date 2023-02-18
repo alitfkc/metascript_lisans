@@ -5,7 +5,7 @@
    "37.123.96.104":"Red Gaming",
    "217.195.202.55":"Kaplan Gaming",
    "217.195.197.111":"Viana Gaming",
-   "45.147.45.189":"Zirve Gaming"
+   "45.147.45.62":"Data Games"
     
   },
   "squid_game":{
@@ -19,12 +19,13 @@
    "185.254.30.138":"Meta Games", 
    "217.195.202.55":"Kaplan Gaming",
    "217.195.197.111":"Viana Gaming",
-   "45.147.45.189":"Zirve Gaming"
+   "45.147.45.62":"Data Games"
   },
   "gallery":{
    "31.223.86.102":"Meta Script",
    "185.254.30.138":"Meta Games", 
-   "217.195.202.55":"Kaplan Gaming"
+   "217.195.202.55":"Kaplan Gaming",
+   "45.147.45.62":"Data Games"
   },
   "bank":{
    "31.223.86.102":"Meta Script",
